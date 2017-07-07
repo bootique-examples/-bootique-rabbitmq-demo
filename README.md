@@ -1,0 +1,1 @@
+# -bootique-rabbitmq-demo
